@@ -1,0 +1,107 @@
+Dependencies for Project 'Template', Target 'Debug': (DO NOT MODIFY !)
+F (..\USER\main.c)(0x57A1EF2B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\USER\delay\delay.h)(0x57A1A22A)
+I (..\USER\gpio.h)(0x57A1A22A)
+F (..\USER\stm32f10x_it.c)(0x57A1EB31)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_it.o --omf_browse ..\obj\stm32f10x_it.crf --depend ..\obj\stm32f10x_it.d)
+I (..\USER\stm32f10x_it.h)(0x5649445C)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\USER\system_stm32f10x.c)(0x4D99A426)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\USER\delay\delay.c)(0x5731E44B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+I (..\USER\delay\delay.h)(0x57A1A22A)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\USER\gpio.c)(0x5731F2C7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\gpio.o --omf_browse ..\obj\gpio.crf --depend ..\obj\gpio.d)
+I (..\USER\gpio.h)(0x57A1A22A)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\USER\uart.c)(0x5E12EA59)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\uart.o --omf_browse ..\obj\uart.crf --depend ..\obj\uart.d)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\misc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\misc.o --omf_browse ..\obj\misc.crf --depend ..\obj\misc.d)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+F (..\STM32F10x_FWLib\core\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_hd.lst --xref -o ..\obj\startup_stm32f10x_hd.o --depend ..\obj\startup_stm32f10x_hd.d)
+F (..\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x4D79EEC6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_gpio.o --omf_browse ..\obj\stm32f10x_gpio.crf --depend ..\obj\stm32f10x_gpio.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_rcc.o --omf_browse ..\obj\stm32f10x_rcc.crf --depend ..\obj\stm32f10x_rcc.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_usart.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\STM32F10x_FWLib -I..\STM32F10x_FWLib\inc -I..\STM32F10x_FWLib\core -I..\USER -I..\USER\delay-I D:\Program\Keil\ARM\RV31\INC-I D:\Program\Keil\ARM\CMSIS\Include-I D:\Program\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_usart.o --omf_browse ..\obj\stm32f10x_usart.crf --depend ..\obj\stm32f10x_usart.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x504F415E)
+I (..\USER\stm32f10x.h)(0x5649445C)
+I (..\STM32F10x_FWLib\core\core_cm3.h)(0x4D523B58)
+I (D:\Program\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (..\USER\system_stm32f10x.h)(0x5649445C)
+I (..\USER\stm32f10x_conf.h)(0x5649445C)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
