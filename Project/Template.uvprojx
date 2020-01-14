@@ -443,6 +443,11 @@
               <FileType>1</FileType>
               <FilePath>.\8266.c</FilePath>
             </File>
+            <File>
+              <FileName>mqtt.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\USER\mqtt.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -913,6 +918,11 @@
               <FileName>8266.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\8266.c</FilePath>
+            </File>
+            <File>
+              <FileName>mqtt.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\USER\mqtt.c</FilePath>
             </File>
           </Files>
         </Group>
